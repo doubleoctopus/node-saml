@@ -1,6 +1,6 @@
 {
   "name": "saml",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "engines": {
     "node": ">=12"
   },
@@ -14,7 +14,7 @@
     "standard-version": "^9.0.0"
   },
   "main": "./lib",
-  "repository": "https://github.com/auth0/node-saml",
+  "repository": "https://github.com/doubleoctopus/node-saml",
   "keywords": [
     "saml",
     "authentication"
